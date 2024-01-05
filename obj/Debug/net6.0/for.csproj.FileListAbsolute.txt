@@ -1,0 +1,29 @@
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\bin\Debug\net6.0\for.exe
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\bin\Debug\net6.0\for.deps.json
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\bin\Debug\net6.0\for.runtimeconfig.json
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\bin\Debug\net6.0\for.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\bin\Debug\net6.0\for.pdb
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\obj\Debug\net6.0\for.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\obj\Debug\net6.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\obj\Debug\net6.0\for.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\obj\Debug\net6.0\for.AssemblyInfo.cs
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\obj\Debug\net6.0\for.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\obj\Debug\net6.0\for.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\obj\Debug\net6.0\refint\for.dll
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\obj\Debug\net6.0\for.pdb
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\obj\Debug\net6.0\for.genruntimeconfig.cache
+C:\Users\admin\Documents\Gabriel\intro a la programacion\for\obj\Debug\net6.0\ref\for.dll
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\bin\Debug\net6.0\for.exe
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\bin\Debug\net6.0\for.deps.json
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\bin\Debug\net6.0\for.runtimeconfig.json
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\bin\Debug\net6.0\for.dll
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\bin\Debug\net6.0\for.pdb
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\obj\Debug\net6.0\for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\obj\Debug\net6.0\for.AssemblyInfoInputs.cache
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\obj\Debug\net6.0\for.AssemblyInfo.cs
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\obj\Debug\net6.0\for.csproj.CoreCompileInputs.cache
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\obj\Debug\net6.0\for.dll
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\obj\Debug\net6.0\refint\for.dll
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\obj\Debug\net6.0\for.pdb
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\obj\Debug\net6.0\for.genruntimeconfig.cache
+C:\Users\Perez\Documents\Gabriel\fundamentos\Fundamentos programacion\for\obj\Debug\net6.0\ref\for.dll
